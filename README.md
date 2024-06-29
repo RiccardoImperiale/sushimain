@@ -1,4 +1,7 @@
 # Sushiman
-Website to practice HTML, CSS, JS and AOS Animations
+[Live Version](https://sushimain.netlify.app/) 👀
+#### - Website to practice HTML, CSS, JS, responsive design and AOS Animations
 
-https://sushimain.netlify.app/
+
+![alt text](./public/screen-responsive.png)
+![alt text](./public/screen-total.png)
